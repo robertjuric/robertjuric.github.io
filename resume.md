@@ -3,27 +3,27 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
 Robert A. Juric  
 robert.juric@gmail.com  
 www.robertjuric.com  
 
 Network Engineer
 ================
-Multi-Certified Professional in Internetworking Technology
+Multi-Certified Professional in Internetworking Technology  
 ----------------------------------------------------------
-—————————————————–
-CORE COMPETENCIES
-* Juniper, Cisco, Brocade Switches and Routers
-* Juniper, Cisco Firewalls
-* OSPF, BGP, MPLS, Multicast, QoS
-* IPv6 Transitions
-* 802.1x and Port-Security
-* LAN/WAN Design
-* IOS, JUNOS, SCREENOS
-* Solarwinds Network Management Systems
-* Network Analysis with Wireshark
-* VMware Virtualization Products
+
+CORE COMPETENCIES  
+-----------------
+* Juniper, Cisco, Brocade Switches and Routers  
+* Juniper, Cisco Firewalls  
+* OSPF, BGP, MPLS, Multicast, QoS  
+* IPv6 Transitions  
+* 802.1x and Port-Security  
+* LAN/WAN Design  
+* IOS, JUNOS, SCREENOS  
+* Solarwinds Network Management Systems  
+* Network Analysis with Wireshark  
+* VMware Virtualization Products  
 
 —————————————————–
 PROFESSIONAL CERTIFICATIONS
