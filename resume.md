@@ -15,6 +15,7 @@ Multi-Certified Professional in Internetworking Technology
 
 CORE COMPETENCIES  
 -----------------
+
 * Juniper, Cisco, Brocade Switches and Routers  
 * Juniper, Cisco Firewalls  
 * OSPF, BGP, MPLS, Multicast, QoS  
@@ -28,6 +29,7 @@ CORE COMPETENCIES
 
 PROFESSIONAL CERTIFICATIONS  
 ---------------------------
+
 * DoD Top Secret Clearance  
 * Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
 * Cisco Certified Entry Network Technician (CSCO11674179)  
@@ -38,6 +40,7 @@ PROFESSIONAL CERTIFICATIONS
 
 PROFESSIONAL EXPERIENCE
 -----------------------
+
 CenturyLink Managed Enterprise Services (Jan 2015 ~ Present)
 Senior Network Engineer
 * Provide engineering services to multiple Managed Enterprise customers
