@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Robert Juric. I live a pretty busy life. First and foremost, I am a Christian and a happily married father. I stand in awe of God’s creation. I’m a problem solver, and I enjoy the challenge of building things.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Professionally I am a network engineer. At work I am interested in service provider networks, enterprise data centers, and the new technologies emerging for them. I am certified and able to work with multiple network vendors; I am also proficient with other data center technologies including virtualization and storage.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+At home I enjoy spending time with my family and doing things outside. and coffee.
