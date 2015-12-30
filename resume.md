@@ -15,16 +15,19 @@ Multi-Certified Professional in Internetworking Technology
 CORE COMPETENCIES  
 -----------------
 
-* Juniper, Cisco, Brocade Switches and Routers  
-* Juniper, Cisco Firewalls  
-* OSPF, BGP, MPLS, Multicast, QoS  
+* Routing and Switching Technologies
 * IPv6 Transitions  
-* 802.1x and Port-Security  
 * LAN/WAN Design  
-* IOS, JUNOS, SCREENOS  
-* Solarwinds Network Management Systems  
 * Network Analysis with Wireshark  
 * VMware Virtualization Products  
+
+EDUCATION AND CERTIFICATIONS  
+---------------------------
+
+* Bachelor of Business Administration (BBA), Faulkner University, Feb. 2011  
+* Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
+* Cisco Certified Entry Network Technician (CSCO11674179)  
+
 
 PROFESSIONAL EXPERIENCE
 -----------------------
@@ -35,21 +38,6 @@ Senior Network Engineer
 * Provide engineering services to multiple Managed Enterprise customers  
 * Create implementation plans to organize complex projects  
 * Troubleshoot complex network related problems  
-
-ITT Technical Institute  
-Adjunct Professor  
-
-* Instruct on IP Networking Fundamentals  
-* Instruct on Cisco Routing and Switching  
-* Develop Lesson Plans and Quizzes  
-
-Axis Teknologies (for AT&T Mobility) (Oct 2014 ~ Dec 2014)  
-Implementation Engineer  
-
-* Provided network design, system, and engineering support for AT&T Mobility  
-* Built and maintained mobility zones for AT&T Mobility’s 4G/LTE Evolved Packet Core  
-* Used configuration management tools and processes to build and maintain mobility zones  
-* Worked closely with members of other teams to help define and implement solution requirements  
 
 Alutiiq LLC (for US Army) (Nov 2011 ~ Oct 2014)  
 Network Engineer III  
@@ -75,25 +63,13 @@ Network Administrator
 * Managed/Maintained Site-To-Site IPSEC Network  
 * Managed design and implementation of new data center network  
 * Managed carrier transition for data/voice network of 200+ locations  
-* Administered Cisco Unified Communication Platform (Voice and Presence)  
-* Implemented Solarwinds NMS  
 * Developed Virtual Office Solution for remote tele-workers  
 * Assisted in conversion from outsourced infrastructure to in-house infrastructure  
 * Developed 3G WAN Connectivity Solution for Primary Connection of ready mix plants  
-* Created and maintained documentation using Microsoft Visio and Sharepoint  
-* Assisted on internal service desk creating incident tickets as well as change management tickets  
 
-PROFESSIONAL CERTIFICATIONS  
----------------------------
+RELATED
+-------
 
-* DoD Top Secret Clearance  
-* Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
-* Cisco Certified Entry Network Technician (CSCO11674179)  
-* Solarwinds Certified Professional (SCP) (Expired)  
-* Juniper Networks Certified Internet Professional – Enterprise (Expired)  
-* Juniper Networks Certified Internet Specialist – Security (Expired)  
-
-FORMAL EDUCATION  
-----------------
-
-Bachelor of Business Administration (BBA), Faulkner University, Feb. 2011  
+10 Years Military Service, US Army
+Adjunct Professor at ITT Technical Institute
+Technical Editor for "Packet Analysis with Wireshark", ISBN 978-1-78588-781-9
