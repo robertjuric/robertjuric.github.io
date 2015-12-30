@@ -11,7 +11,6 @@ Network Engineer
 ================
 Multi-Certified Professional in Internetworking Technology  
 ----------------------------------------------------------
-
 CORE COMPETENCIES  
 -----------------
 * Juniper, Cisco, Brocade Switches and Routers  
@@ -24,15 +23,14 @@ CORE COMPETENCIES
 * Solarwinds Network Management Systems  
 * Network Analysis with Wireshark  
 * VMware Virtualization Products  
-
-—————————————————–
-PROFESSIONAL CERTIFICATIONS
-* DoD Top Secret Clearance
-* Juniper Networks Certified Internet Assosciate – Junos (JPR106673)
-* Cisco Certified Entry Network Technician (CSCO11674179)
-* Solarwinds Certified Professional (SCP) (Expired)
-* Juniper Networks Certified Internet Professional – Enterprise (Expired)
-* Juniper Networks Certified Internet Specialist – Security (Expired)
+PROFESSIONAL CERTIFICATIONS  
+---------------------------
+* DoD Top Secret Clearance  
+* Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
+* Cisco Certified Entry Network Technician (CSCO11674179)  
+* Solarwinds Certified Professional (SCP) (Expired)  
+* Juniper Networks Certified Internet Professional – Enterprise (Expired)  
+* Juniper Networks Certified Internet Specialist – Security (Expired)  
 
 —————————————————–
 PROFESSIONAL EXPERIENCE
