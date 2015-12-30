@@ -4,13 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
-Robert A. Juric
-robert.juric@gmail.com
-www.robertjuric.com
-=====================================================
+Robert A. Juric  
+robert.juric@gmail.com  
+www.robertjuric.com  
+
 Network Engineer
+================
 Multi-Certified Professional in Internetworking Technology
-=====================================================
+----------------------------------------------------------
 —————————————————–
 CORE COMPETENCIES
 * Juniper, Cisco, Brocade Switches and Routers
