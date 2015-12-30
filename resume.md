@@ -31,18 +31,21 @@ PROFESSIONAL EXPERIENCE
 
 CenturyLink Managed Enterprise Services (Jan 2015 ~ Present)  
 Senior Network Engineer  
+
 * Provide engineering services to multiple Managed Enterprise customers  
 * Create implementation plans to organize complex projects  
 * Troubleshoot complex network related problems  
 
 ITT Technical Institute  
 Adjunct Professor  
+
 * Instruct on IP Networking Fundamentals  
 * Instruct on Cisco Routing and Switching  
 * Develop Lesson Plans and Quizzes  
 
 Axis Teknologies (for AT&T Mobility) (Oct 2014 ~ Dec 2014)  
 Implementation Engineer  
+
 * Provided network design, system, and engineering support for AT&T Mobility  
 * Built and maintained mobility zones for AT&T Mobility’s 4G/LTE Evolved Packet Core  
 * Used configuration management tools and processes to build and maintain mobility zones  
@@ -50,6 +53,7 @@ Implementation Engineer
 
 Alutiiq LLC (for US Army) (Nov 2011 ~ Oct 2014)  
 Network Engineer III  
+
 * Managed internal MPLS network across Redstone Arsenal Campus Area Network  
 * Technical lead for 2 base-wide network refresh projects  
 * Designed and implemented data center network refresh in support of virtualization efforts  
@@ -57,6 +61,7 @@ Network Engineer III
 
 US Army Aviation and Missile Command (Jan 2011 ~ Oct 2011)  
 Network/VMware Engineer  
+
 * Responsible for the network & virtual infrastructure of a development enclave project  
 * Created and executed implementation and test plans  
 * Assisted in the Accreditation Process by implementing infrastructure in accordance with DISA STIGs  
@@ -65,6 +70,7 @@ Network/VMware Engineer
 
 Ready Mix USA (2008 ~ 2011)  
 Network Administrator  
+
 * Managed MPLS WAN for 175 Connected Locations  
 * Managed/Maintained Site-To-Site IPSEC Network  
 * Managed design and implementation of new data center network  
