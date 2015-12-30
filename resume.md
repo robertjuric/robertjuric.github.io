@@ -8,12 +8,12 @@ robert.juric@gmail.com
 www.robertjuric.com  
 
 Network Engineer
-----------------
+================
 Multi-Certified Professional in Internetworking Technology  
 
 
 CORE COMPETENCIES  
-=================
+-----------------
 
 * Juniper, Cisco, Brocade Switches and Routers  
 * Juniper, Cisco Firewalls  
@@ -27,7 +27,7 @@ CORE COMPETENCIES
 * VMware Virtualization Products  
 
 PROFESSIONAL EXPERIENCE
-=======================
+-----------------------
 
 CenturyLink Managed Enterprise Services (Jan 2015 ~ Present)  
 Senior Network Engineer  
@@ -78,7 +78,7 @@ Network Administrator
 * Assisted on internal service desk creating incident tickets as well as change management tickets  
 
 PROFESSIONAL CERTIFICATIONS  
-===========================
+---------------------------
 
 * DoD Top Secret Clearance  
 * Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
@@ -88,6 +88,6 @@ PROFESSIONAL CERTIFICATIONS
 * Juniper Networks Certified Internet Specialist – Security (Expired)  
 
 FORMAL EDUCATION  
-================
+----------------
 
 Bachelor of Business Administration (BBA), Faulkner University, Feb. 2011  
