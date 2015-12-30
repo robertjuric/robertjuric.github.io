@@ -9,8 +9,10 @@ www.robertjuric.com
 
 Network Engineer
 ================
+
 Multi-Certified Professional in Internetworking Technology  
 ----------------------------------------------------------
+
 CORE COMPETENCIES  
 -----------------
 * Juniper, Cisco, Brocade Switches and Routers  
@@ -23,6 +25,7 @@ CORE COMPETENCIES
 * Solarwinds Network Management Systems  
 * Network Analysis with Wireshark  
 * VMware Virtualization Products  
+
 PROFESSIONAL CERTIFICATIONS  
 ---------------------------
 * DoD Top Secret Clearance  
@@ -32,8 +35,9 @@ PROFESSIONAL CERTIFICATIONS
 * Juniper Networks Certified Internet Professional – Enterprise (Expired)  
 * Juniper Networks Certified Internet Specialist – Security (Expired)  
 
-—————————————————–
+
 PROFESSIONAL EXPERIENCE
+-----------------------
 CenturyLink Managed Enterprise Services (Jan 2015 ~ Present)
 Senior Network Engineer
 * Provide engineering services to multiple Managed Enterprise customers
