@@ -8,13 +8,13 @@ robert.juric@gmail.com
 www.robertjuric.com  
 
 Network Engineer
-================
+----------------
 
 Multi-Certified Professional in Internetworking Technology  
-----------------------------------------------------------
+==========================================================
 
 CORE COMPETENCIES  
------------------
+=================
 
 * Juniper, Cisco, Brocade Switches and Routers  
 * Juniper, Cisco Firewalls  
