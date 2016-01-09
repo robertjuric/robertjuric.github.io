@@ -70,6 +70,6 @@ Network Administrator
 RELATED
 -------
 
-10 Years Military Service, US Army
-Adjunct Professor at ITT Technical Institute
-Technical Editor for "Packet Analysis with Wireshark", ISBN 978-1-78588-781-9
+10 Years Military Service, US Army  
+Adjunct Professor at ITT Technical Institute  
+Technical Editor for "Packet Analysis with Wireshark", ISBN 978-1-78588-781-9  
