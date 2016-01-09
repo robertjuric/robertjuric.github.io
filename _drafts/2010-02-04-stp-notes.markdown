@@ -1,0 +1,93 @@
+---
+author: robertjuric
+comments: true
+date: 2010-02-04 22:45:32+00:00
+layout: post
+slug: stp-notes
+title: STP Notes
+wordpress_id: 34
+categories:
+- Cisco
+- Networking
+tags:
+- Cisco
+- L2
+- STP
+- Switching
+---
+
+Spanning Tree Protocol (STP) prevents switched loops from occurring in redundant topologies by placing ports in either a Forwarding (alive) state or a Blocking (dead) state. STP makes changes to port states based on topology changes as necessary, allowing for redundant links to be brought up and down as necessary.
+
+Terms:
+
+
+
+	
+  * Root Switch - Lowest Bridge ID; All ports forwarding
+
+	
+  * Root Port - On non-root switches, the port with the lowest admin cost to root switch
+
+	
+  * Designated Bridge -Lowest cost switch to the root switch on an Ethernet segment
+
+	
+  * Designated Port - Port connecting the designated bridge to the segment
+
+	
+  * STP Bridge ID (BID) - Unique ID of each switch composed of a priority field and system ID
+
+	
+  * Bridge Protocol Data Unit (BPDU) - messages that switches use to exchange info with each other
+
+	
+  * Hello BPDU - Lists the sending switch's BID, the current root switch's BID, Cost to reach the root switch, and timer values of the root switch
+
+
+Process:
+
+	
+  1. Elect a Root Switch
+
+	
+  2. Select Switch Root Port
+
+	
+  3. Select Switch Designated Port
+
+	
+  4. (All other ports are placed in a Blocking State)
+
+
+
+
+1. Electing a Root Switch
+Each switch begins by sending out it's Hello BPDUs with its own BID listed as the root switch. If a switch encounters a Hello BPDU with a lower root BID, called a Superior Hello, then it acknowledges that switch as the root switch, stops originating Hellos, and begins forwarding the Superior Hello modified to include the correct sender BID and new root BID. This process continues until all switches in the topology agree on a single root switch.
+
+
+
+
+2. Selecting a Switch's Root Port
+The root port is the switch port with the lowest STP cost to reach the root switch. A switch calculates each port cost by adding the advertised cost, which was received in the Hello BPDU, to the interface cost, which is configured on the switch.
+
+
+
+
+3. Selecting a Switch's Designated Port
+When a non-root switch forwards a Hello BPDU, it includes it's cost to the root switch. The switch port with the lowest advertised cost to the root on a segment is the Designated Port. If the advertised costs are tied the switch with lower BID wins and is the Designated Port.
+
+
+
+
+Default Port Costs:
+10 Mbps - 100
+100 Mbps - 19
+1 Gbps - 4
+10 Gbps - 2
+
+
+So far I've described the process by which STP creates it's initial topology. As part of a continual process the root switch sends out a Hello, by default, every 2 seconds with a cost of 0. Other switches will receive this Hello on their Root Ports, change the sender's BID, update the cost-to-root, and forward the Hello out their Designated Ports.
+
+When a switch either does not receive a Hello by the MaxAge time-out, or it's Root Port goes down, the switch begins the whole process over in order to determine if it's the Root Switch, and if not, what ports should be the RP and DP. The entire process for an interface to move from a Blocking State to a Forwarding state could take up to 50 seconds as it waits for the MaxAge time-out (10x Hello timer or 20 seconds by default), waits 30 seconds in Listening and Learning states, before arriving at a Forwarding state.
+
+Feel free to comment or email me if I made any mistakes.

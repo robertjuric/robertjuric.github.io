@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2014-03-17 15:50:55+00:00
+layout: post
+slug: mmm-code
+title: Mmm Code
+wordpress_id: 949
+categories:
+- Code
+tags:
+- git
+- node.js
+---
+
+I remember some of my first computers. I remember an old Apple IIe with a 5 1/4 floppy my Dad brought home from his work. I remember that one of the applications I had for said computer was Apple BASIC. I don't really know how I became interested in writing applications/coding, but from a pretty early age I was hooked. I went from Apple BASIC to MS BASIC to Visual Basic. I never learned official structures or programming methodologies, I never even took a Computer Science course in school. But I liked to build things, I like to solve puzzles, and programming met those needs. Yet somewhere along the way I lost touch.  When I entered the workforce, I got into Enterprise IT, and got dirty keeping a business' technology needs running, but I stopped building things. I think this left me a little empty.
+
+Recently, without much explanation, I've rekindled that fire, that desire to create. I've been doing a lot of research on some of the latest languages and after much deliberation I decided to pickup Node.js for it's fast IO handling. With my background in Enterprise IT, I thought I could use it to build a quick and dirty Syslog server. It would be a good example that would let me get my hands dirty coding again, and it met an actual need that I have. I shall call it, Sysive (Syslog Archive).
+
+So where do I put my code? I don't think that old 5 1/4 floppy is going to cut it anymore. Github seems to be the defacto standard for sharing and working on code. More on using Github in my next post...

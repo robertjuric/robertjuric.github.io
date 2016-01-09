@@ -1,0 +1,38 @@
+---
+author: robertjuric
+comments: true
+date: 2012-01-01 20:05:30+00:00
+layout: post
+slug: 2011-in-review
+title: 2011 in review
+wordpress_id: 594
+categories:
+- Insights
+- Networking
+---
+
+	
+
+The WordPress.com stats helper monkeys prepared a 2011 annual report for this blog.
+
+
+	[![](http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/emailteaser.jpg)](/2011/annual-report/)
+	
+
+Here's an excerpt:
+
+
+	
+
+
+	
+
+<blockquote>The concert hall at the Syndey Opera House holds 2,700 people.  This blog was viewed about **21,000** times in 2011.  If it were a concert at Sydney Opera House, it would take about 8 sold-out performances for that many people to see it.</blockquote>
+
+
+	
+
+[Click here to see the complete report.](/2011/annual-report/)
+
+
+

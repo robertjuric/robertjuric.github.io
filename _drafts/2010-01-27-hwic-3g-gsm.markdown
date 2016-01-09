@@ -1,0 +1,87 @@
+---
+author: robertjuric
+comments: true
+date: 2010-01-27 02:03:15+00:00
+layout: post
+slug: hwic-3g-gsm
+title: HWIC-3G-GSM
+wordpress_id: 10
+categories:
+- Cisco
+- Networking
+tags:
+- '1841'
+- Cisco
+- wwan
+---
+
+It took me quite some time to get this figured out so I thought it would be a good first post to share with you. Configuration took piecing together information from a few different sources; I could not find one definitive answer on how to configure a router with this card. Hopefully somebody will find this information useful. Also, A good reference can be found on Cisco's website [here](http://www.cisco.com/en/US/docs/routers/access/1800/1861/software/feature/guide/3ghwic.html).
+
+_![](https://robertj.wordpress.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)_
+
+Materials:
+
+
+
+	
+  * Cisco 1841 Router
+
+	
+  * HWIC-3G-GSM
+
+	
+  * AT&T SIM Card
+
+
+Quick Config Breakdown:
+(Disclaimer: This is not meant to be a technical guide, for a complete command reference, see Google.)
+
+1. Configure a Cellular Modem Profile_ _
+
+
+_router# cellular0/0/0 gsm profile create 1 <apn_name>_
+
+
+2. Configure DDR
+
+
+_(config)# __chat-script gsm "" "ATDT*99***1#" TIMEOUT 60 "CONNECT"_
+
+
+
+
+_(config)# __dialer-list 1 protocol ip permit_
+
+
+
+
+_(config)# __line 0/0/0
+__(config-line)#__ script dialer gsm
+__(config-line)#__ modem InOut
+__(config-line)#__ transport input all
+__(config-line)#__ exit
+_
+
+
+3. Configure the Cellular Interface
+
+
+_(config)# interface Cellular0/0/0
+__(config-if)# __ip address negotiated
+__(config-if)# __encapsulation ppp
+__(config-if)# __ dialer in-band
+__(config-if)# __ dialer idle-timeout 300
+__(config-if)# __ dialer string gsm
+__(config-if)# __ dialer-group 1
+__(config-if)# __ async mode interactive
+__(config-if)# __ ppp chap hostname dummy
+__(config-if)# __ ppp chap password dummy
+__(config-if)# __ exit_
+
+
+From here make sure you have a default route setup and attempt to send some traffic out the Cellular interface with a ping. You should see the interface come up and the pings start succeeding.
+
+Notes:
+The chat-script and chap authentication were configured based on information gleamed from AT&T, it will vary from carrier to carrier.
+
+This is merely how I configured my router to work with our AT&T APN. On top of this configuration, add some lines for NAT, a VPN tunnel, and you have yourself a Cellular Enabled Router. Feel free to post any comments or questions.
