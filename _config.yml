@@ -17,8 +17,3 @@ github_username:  robertjuric
 
 # Build settings
 markdown: kramdown
-
-# Collection settings
-collections:
- tech-notes:
-  output: trueß
