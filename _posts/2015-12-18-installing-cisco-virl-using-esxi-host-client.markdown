@@ -7,8 +7,7 @@ slug: installing-cisco-virl-using-esxi-host-client
 title: Installing Cisco VIRL using ESXi Host Client
 wordpress_id: 1276
 categories:
-- Cisco
-- Networking
+- tech-article
 tags:
 - Cisco
 - esxi
