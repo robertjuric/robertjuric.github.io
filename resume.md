@@ -26,7 +26,7 @@ EDUCATION AND CERTIFICATIONS
 
 * Bachelor of Business Administration (BBA), Faulkner University, Feb. 2011  
 * Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
-* Cisco Certified Entry Network Technician (CSCO11674179)  
+* Cisco Certified Network Assosciate - Route Switch (CSCO11674179)  
 
 
 PROFESSIONAL EXPERIENCE
