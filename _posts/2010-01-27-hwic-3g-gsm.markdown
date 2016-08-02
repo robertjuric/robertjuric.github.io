@@ -2,6 +2,7 @@
 date: 2010-01-27 02:03:15+00:00
 layout: post
 title: HWIC-3G-GSM
+group: TechNotes
 categories:
 - Cisco
 - Networking
