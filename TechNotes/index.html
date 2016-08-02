@@ -1,24 +1,4 @@
 ---
-layout: default
+layout: tagpage
+tag: cisco
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Tech-Notes</h1>
-
-  <ul class="post-list">
-    {% assign techPosts = site.posts | where: 'group', 'TechNotes' %}
-    {% for item in techPosts %}
-      <li>
-        <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ item.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
