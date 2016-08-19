@@ -7,7 +7,7 @@ slug: building-xen-lvm-domu
 title: Building Xen LVM DomU
 wordpress_id: 1235
 categories:
-- Linux
+- Virtualization
 tags:
 - Debian
 - Debian 8

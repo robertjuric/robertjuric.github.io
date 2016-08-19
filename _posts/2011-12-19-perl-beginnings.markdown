@@ -8,7 +8,6 @@ title: Perl Beginnings
 wordpress_id: 576
 categories:
 - Code
-- Networking
 tags:
 - Perl
 - Ping

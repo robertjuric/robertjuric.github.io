@@ -7,7 +7,6 @@ slug: security-policy-and-address-groups
 title: Security Policy and Address Groups
 wordpress_id: 510
 categories:
-- Juniper
 - Networking
 tags:
 - Juniper

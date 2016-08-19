@@ -7,7 +7,7 @@ slug: debian-8-xen-dom0
 title: Debian 8 Xen Dom0
 wordpress_id: 1212
 categories:
-- Linux
+- Virtualization
 tags:
 - Debian
 - Debian 8

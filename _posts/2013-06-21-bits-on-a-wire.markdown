@@ -7,7 +7,6 @@ slug: bits-on-a-wire
 title: Bits on a Wire
 wordpress_id: 896
 categories:
-- Insights
 - Networking
 tags:
 - MSS

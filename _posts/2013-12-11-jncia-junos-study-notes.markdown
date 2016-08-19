@@ -7,7 +7,6 @@ slug: jncia-junos-study-notes
 title: JNCIA-Junos Study Notes
 wordpress_id: 931
 categories:
-- Juniper
 - Networking
 ---
 

@@ -7,7 +7,6 @@ slug: srx-firewall-user-authentication
 title: SRX Firewall User Authentication
 wordpress_id: 521
 categories:
-- Juniper
 - Networking
 tags:
 - authentication

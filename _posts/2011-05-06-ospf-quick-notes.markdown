@@ -7,8 +7,6 @@ slug: ospf-quick-notes
 title: OSPF Quick Notes
 wordpress_id: 438
 categories:
-- Cisco
-- Juniper
 - Networking
 ---
 

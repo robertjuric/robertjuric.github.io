@@ -7,7 +7,6 @@ slug: junos-destination-nat-as-port-forwarding
 title: JUNOS - Destination NAT as Port Forwarding
 wordpress_id: 419
 categories:
-- Juniper
 - Networking
 tags:
 - Destination NAT

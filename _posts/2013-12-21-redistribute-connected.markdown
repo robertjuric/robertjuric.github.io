@@ -7,7 +7,6 @@ slug: redistribute-connected
 title: Redistribute Connected
 wordpress_id: 940
 categories:
-- Cisco
 - Networking
 tags:
 - Cisco

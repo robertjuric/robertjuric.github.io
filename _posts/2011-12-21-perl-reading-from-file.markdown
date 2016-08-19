@@ -8,7 +8,6 @@ title: Perl - Reading from File
 wordpress_id: 587
 categories:
 - Code
-- Networking
 tags:
 - file
 - input

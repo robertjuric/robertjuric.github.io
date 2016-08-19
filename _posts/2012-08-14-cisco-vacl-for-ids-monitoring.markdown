@@ -7,7 +7,6 @@ slug: cisco-vacl-for-ids-monitoring
 title: Cisco VACL for IDS Monitoring
 wordpress_id: 691
 categories:
-- Cisco
 - Networking
 tags:
 - Cisco
