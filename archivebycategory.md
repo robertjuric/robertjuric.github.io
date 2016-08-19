@@ -27,7 +27,7 @@ sitemap: false
     {% if category[0] == "Blog" %}
     {% else if %}
         <a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
-        {% assign sorted_posts = site.posts | sort: 'date' %}
+        {% assign sorted_posts = site.posts | sort: 'last' %}
     {% endif %} 
     {% for post in sorted_posts %}
         {%if post.categories contains category[0]%}
