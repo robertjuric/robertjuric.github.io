@@ -11,9 +11,7 @@ sitemap: false
 {% for category in categories %}
     {% if category[0] == "Blog" %}
     {% else if %}
-        
         <a href="#{{ category | first | slugify }}">{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})</a>
-        
     {% endif %} 
 {% endfor %}
 </div>
@@ -29,7 +27,7 @@ sitemap: false
     {% if category[0] == "Blog" %}
     {% else if %}
         <a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
-        {% assign sorted_posts = site.posts | sort: 'title' %}
+        {% assign sorted_posts = site.posts | sort: 'date' %}
     {% endif %} 
     {% for post in sorted_posts %}
         {%if post.categories contains category[0]%}
