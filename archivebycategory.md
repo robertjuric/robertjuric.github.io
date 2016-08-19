@@ -15,9 +15,9 @@ sitemap: false
 {% for category in categories %}
     {% if category[0] == "Blog" %}
     {% else if %}
-        <span class="site-tag">
+        
         <h2><a href="#{{ category | first | slugify }}">{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})</a></h2>
-        </span>
+        
     {% endif %} 
 {% endfor %}
 </div>
