@@ -2,6 +2,8 @@
 date: 2013-06-05 13:30:46+00:00
 layout: post
 title: Wants to Send You Notifications
+categories:
+- Blog
 ---
 
 [![The Day](http://robertjuric.com/wp-content/uploads/2013/06/TheDayMa1.jpg)](http://robertjuric.com/wp-content/uploads/2013/06/TheDayMa1.jpg)

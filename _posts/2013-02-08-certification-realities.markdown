@@ -7,8 +7,7 @@ slug: certification-realities
 title: Certification Realities
 wordpress_id: 842
 categories:
-- Insights
-- Networking
+- Blog
 tags:
 - CCNA
 - certification

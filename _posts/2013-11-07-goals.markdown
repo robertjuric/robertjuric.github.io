@@ -5,6 +5,8 @@ date: 2013-11-07 02:23:58+00:00
 layout: post
 slug: goals
 title: Goals
+categories:
+- Blog
 wordpress_id: 919
 ---
 

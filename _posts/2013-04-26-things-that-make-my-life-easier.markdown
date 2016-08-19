@@ -7,8 +7,7 @@ slug: things-that-make-my-life-easier
 title: Things That Make My Life Easier
 wordpress_id: 871
 categories:
-- Insights
-- Networking
+- Blog
 ---
 
 As network engineers we live busy lives. We usually have multiple things happening and we have to remain agile to keep up with our daily work. I've slowly built a personal system which I use to help me stay on top of my mounting workload.
