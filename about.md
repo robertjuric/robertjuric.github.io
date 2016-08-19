@@ -9,3 +9,7 @@ My name is Robert Juric. I live a pretty busy life. First and foremost, I am a C
 Professionally I am a network engineer. At work I am interested in service provider networks, enterprise data centers, and the new technologies emerging for them. I am certified and able to work with multiple network vendors; I am also proficient with other data center technologies including virtualization and storage.
 
 At home I enjoy spending time with my family and doing things outside. and coffee.
+
+[LinkedIn](http://www.linkedin.com/in/robert-juric)
+[Flickr](https://www.flickr.com/photos/robertjuric/)
+[Instagram](https://www.instagram.com/robertjuric/)
