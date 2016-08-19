@@ -7,7 +7,6 @@ slug: stp-configuration
 title: STP Configuration
 wordpress_id: 49
 categories:
-- Cisco
 - Networking
 tags:
 - Cisco

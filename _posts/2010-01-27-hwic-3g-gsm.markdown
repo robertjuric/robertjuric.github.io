@@ -4,7 +4,6 @@ layout: post
 title: HWIC-3G-GSM
 group: TechNotes
 categories:
-- Cisco
 - Networking
 tags:
 - '1841'

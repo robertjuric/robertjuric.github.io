@@ -7,7 +7,6 @@ slug: ospf-overview-notes
 title: OSPF Overview Notes
 wordpress_id: 155
 categories:
-- Insights
 - Networking
 ---
 

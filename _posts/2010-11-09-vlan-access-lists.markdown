@@ -7,7 +7,6 @@ slug: vlan-access-lists
 title: IOS - VLAN Access Lists
 wordpress_id: 301
 categories:
-- Cisco
 - Networking
 tags:
 - ccnp

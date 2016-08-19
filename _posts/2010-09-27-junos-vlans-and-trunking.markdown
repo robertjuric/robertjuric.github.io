@@ -7,10 +7,13 @@ slug: junos-vlans-and-trunking
 title: JUNOS VLANs and Trunking
 wordpress_id: 215
 categories:
-- Juniper
 - Networking
 tags:
-- Juniper JUNOS CLI VLAN trunk
+- Juniper 
+- JUNOS 
+- CLI 
+- VLAN 
+- trunk
 ---
 
 Today, I'm going to give a quick introduction to VLANs and trunking in JUNOS. VLANs in JUNOS work almost opposite like they do in IOS. You first create a VLAN with a vlan-name and then you assign a vlan-id (dot1q tag). By default all switch-ports are assigned to the 'default' vlan which is untagged (no vlan-id is assigned). 

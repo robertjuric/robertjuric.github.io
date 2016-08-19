@@ -7,7 +7,6 @@ slug: hwic-3g-cdma-v-notes
 title: HWIC-3G-CDMA-V Notes
 wordpress_id: 121
 categories:
-- Cisco
 - Networking
 tags:
 - 3G

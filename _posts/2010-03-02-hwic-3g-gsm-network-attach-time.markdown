@@ -7,7 +7,6 @@ slug: hwic-3g-gsm-network-attach-time
 title: HWIC-3G-GSM - Network Attach Time
 wordpress_id: 78
 categories:
-- Cisco
 - Networking
 tags:
 - 3G

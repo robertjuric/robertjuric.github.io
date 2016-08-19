@@ -7,7 +7,6 @@ slug: junos-security-policies
 title: JUNOS - Security Policies
 wordpress_id: 317
 categories:
-- Juniper
 - Networking
 tags:
 - Juniper

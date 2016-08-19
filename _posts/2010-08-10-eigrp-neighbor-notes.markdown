@@ -7,7 +7,6 @@ slug: eigrp-neighbor-notes
 title: EIGRP Neighbor Notes
 wordpress_id: 133
 categories:
-- Insights
 - Networking
 ---
 

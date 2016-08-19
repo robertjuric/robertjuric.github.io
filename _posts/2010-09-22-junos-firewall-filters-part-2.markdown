@@ -7,7 +7,6 @@ slug: junos-firewall-filters-part-2
 title: JUNOS Firewall Filters - Part 2
 wordpress_id: 205
 categories:
-- Juniper
 - Networking
 tags:
 - filter

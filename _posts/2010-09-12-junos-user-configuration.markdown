@@ -7,7 +7,6 @@ slug: junos-user-configuration
 title: JUNOS User Configuration
 wordpress_id: 169
 categories:
-- Juniper
 - Networking
 tags:
 - CLI

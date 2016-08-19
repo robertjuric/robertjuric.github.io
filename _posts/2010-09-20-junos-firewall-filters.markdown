@@ -7,7 +7,6 @@ slug: junos-firewall-filters
 title: JUNOS Firewall Filters
 wordpress_id: 184
 categories:
-- Juniper
 - Networking
 tags:
 - CLI

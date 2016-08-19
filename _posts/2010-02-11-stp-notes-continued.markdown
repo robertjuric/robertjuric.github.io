@@ -7,7 +7,6 @@ slug: stp-notes-continued
 title: STP Notes Continued
 wordpress_id: 57
 categories:
-- Cisco
 - Networking
 ---
 

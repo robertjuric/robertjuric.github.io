@@ -7,7 +7,6 @@ slug: secondary-ip-addresses-vs-sub-interfaces
 title: Secondary IP Addresses vs. Sub-Interfaces
 wordpress_id: 32
 categories:
-- Cisco
 - Networking
 ---
 
