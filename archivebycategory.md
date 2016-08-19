@@ -28,7 +28,7 @@ sitemap: false
   <div id="index">
     {% for category in categories %}
     {% if category[0] == "Blog" %}
-    // skip it
+   
     {% else if %}
     <a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
     {% assign sorted_posts = site.posts | sort: 'title' %}
