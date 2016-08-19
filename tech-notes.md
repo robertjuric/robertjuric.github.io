@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tech-Notes
+permalink: /tech-notes/
 ---
 
   <ul class="post-list">
