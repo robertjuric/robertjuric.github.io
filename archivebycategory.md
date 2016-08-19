@@ -4,11 +4,7 @@ permalink: /categoryview/
 sitemap: false
 ---
    
-<div class="container" >
-<div id="archives">
-<p>(or browse by <a title="The complete archive of {{ site.name }}" href="{{ site.url}}{{site.baseurl}}/tech-notes">latest)</a></p>
-</div>
-</div>
+
 
 <div>
 {% assign categories = site.categories | sort %}
@@ -20,6 +16,12 @@ sitemap: false
         
     {% endif %} 
 {% endfor %}
+</div>
+
+<div class="container" >
+<div id="archives">
+<p>(or browse by <a title="The complete archive of {{ site.name }}" href="{{ site.url}}{{site.baseurl}}/tech-notes">latest)</a></p>
+</div>
 </div>
     
 <div id="index">
