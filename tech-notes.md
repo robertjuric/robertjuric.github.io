@@ -4,28 +4,25 @@ title: Tech-Notes
 permalink: /tech-notes/
 ---
 
-<div>
-  {% assign categories = site.categories | sort %}
-  {% for category in categories %}
-   <span class="site-tag">
-      <a href="#{{ category | first | slugify }}">
-              {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
-        </a>
-    </span>
+   <div class="container" >
+         <div id="archives">
+             browse by <a title="The complete archive of {{ site.name }}'s Blog by category"
+                          href="{{ site.url}}{{site.baseurl}}/categoryview">category</a>
+         </div>
+     </div>
+   </div>
+   
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
     {% endfor %}
-    </div>
-    
-  <div id="index">
-    {% for category in categories %}
-    <a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
-    {% assign sorted_posts = site.posts | sort: 'title' %}
-    {% for post in sorted_posts %}
-    {%if post.categories contains category[0]%}
-    <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a></h3>
-    
-
-  {%endif%}
-  {% endfor %}
-
-  {% endfor %}
-</div>
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  
+  
