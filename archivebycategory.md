@@ -31,7 +31,7 @@ sitemap: false
     {% assign sorted_posts = site.posts | sort: 'title' %}
     {% for post in sorted_posts %}
     {%if post.categories contains category[0]%}
-    {% if post.category == "Blog" %}
+    {% if post.category[0] == "Blog" %}
     // skip it
     {% else if %}
     <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a></h3>
