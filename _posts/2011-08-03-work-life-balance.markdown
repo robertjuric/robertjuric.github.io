@@ -2,6 +2,8 @@
 date: 2011-08-03 02:14:37+00:00
 layout: post
 title: Work-Life Balance
+categories:
+- Blog
 ---
 
 In the past few months I've graduated college, started a new job, achieved the next technical certification, but most importantly I've become a father. Each day I barely have time to catch my breath before I wake up and start all over. Becoming a father has caused me to pause and re-assess my situation, to re-evaluate my priorities.  

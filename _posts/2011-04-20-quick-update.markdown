@@ -7,8 +7,7 @@ slug: quick-update
 title: Quick Update
 wordpress_id: 434
 categories:
-- Insights
-- Networking
+- Blog
 ---
 
 I wanted to give a quick update on my current job situation. Since it is what I do all day, it produces most of the ideas and content that I fill my blog with. My current position has me wearing multiple hats. While my title is Network Engineer, I'm also standing up a VMware environment, administering a few NetApp SANs, and ensuring the infrastructure servers (DCs, AV, etc.) are in place. With these additional responsibilities I've started to have more ideas for blog topics related to virtualization. 

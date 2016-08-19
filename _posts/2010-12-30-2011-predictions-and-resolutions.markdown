@@ -7,8 +7,7 @@ slug: 2011-predictions-and-resolutions
 title: 2011 Predictions and Resolutions
 wordpress_id: 386
 categories:
-- Insights
-- Networking
+- Blog
 ---
 
 2010 is almost gone. It has been a good year with many new developments, but now it's time to start looking forward. So here is my $0.02 on what I think the new year will have in store for us:

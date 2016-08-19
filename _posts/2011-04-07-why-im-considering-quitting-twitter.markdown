@@ -5,6 +5,8 @@ date: 2011-04-07 00:30:18+00:00
 layout: post
 slug: why-im-considering-quitting-twitter
 title: Why I'm Considering Quitting Twitter
+categories:
+- Blog
 wordpress_id: 435
 ---
 

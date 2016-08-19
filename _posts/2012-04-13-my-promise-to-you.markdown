@@ -5,6 +5,8 @@ date: 2012-04-13 00:28:27+00:00
 layout: post
 slug: my-promise-to-you
 title: My Promise to You
+categories:
+- Blog
 wordpress_id: 658
 ---
 

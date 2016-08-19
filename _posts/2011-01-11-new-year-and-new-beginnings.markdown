@@ -5,6 +5,8 @@ date: 2011-01-11 14:26:29+00:00
 layout: post
 slug: new-year-and-new-beginnings
 title: New Year and New Beginnings
+categories:
+- Blog
 wordpress_id: 393
 ---
 
