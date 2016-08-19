@@ -13,7 +13,7 @@ sitemap: false
 <div>
   {% assign categories = site.categories | sort %}
   {% for category in categories %}
-  {% if category == "Blog" %}
+  {% if category[0] == "Blog" %}
   // skip it
   {% else if %}
    <span class="site-tag">
@@ -31,7 +31,7 @@ sitemap: false
     {% assign sorted_posts = site.posts | sort: 'title' %}
     {% for post in sorted_posts %}
     {%if post.categories contains category[0]%}
-    {% if post.category[0] == "Blog" %}
+    {% if category[0] == "Blog" %}
     // skip it
     {% else if %}
     <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a></h3>
