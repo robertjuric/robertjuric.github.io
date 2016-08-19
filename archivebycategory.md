@@ -3,6 +3,12 @@ layout: page
 permalink: /categoryview/
 sitemap: false
 ---
+   <div class="container" >
+         <div id="archives">
+             browse by <a title="The complete archive of {{ site.name }}'s Blog"
+                          href="{{ site.url}}{{site.baseurl}}/tech-notes">latest</a>
+         </div>
+     </div>
 
 <div>
   {% assign categories = site.categories | sort %}

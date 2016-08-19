@@ -10,7 +10,7 @@ permalink: /tech-notes/
                           href="{{ site.url}}{{site.baseurl}}/categoryview">category</a>
          </div>
      </div>
-   </div>
+
    
   <ul class="post-list">
     {% for post in site.posts %}
