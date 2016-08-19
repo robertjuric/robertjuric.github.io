@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tech-Notes
 permalink: /tech-notes/
 ---
