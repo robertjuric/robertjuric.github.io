@@ -10,6 +10,6 @@ Professionally I am a network engineer. At work I am interested in service provi
 
 At home I enjoy spending time with my family and doing things outside. and coffee.
 
-[LinkedIn](http://www.linkedin.com/in/robert-juric)
-[Flickr](https://www.flickr.com/photos/robertjuric/)
-[Instagram](https://www.instagram.com/robertjuric/)
+[LinkedIn](http://www.linkedin.com/in/robert-juric)  
+[Flickr](https://www.flickr.com/photos/robertjuric/)  
+[Instagram](https://www.instagram.com/robertjuric/)  
