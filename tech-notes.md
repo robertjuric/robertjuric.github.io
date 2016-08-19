@@ -6,7 +6,8 @@ permalink: /tech-notes/
 
 <div class="container" >
 <div id="archives">
-<p>browse by <a title="The complete archive of {{ site.name }} by category" href="{{ site.url}}{{site.baseurl}}/categoryview">category</a></p>
+<p>technical articles:<br>
+(or browse by <a title="The complete archive of {{ site.name }} by category" href="{{ site.url}}{{site.baseurl}}/categoryview">category</a>)</p>
 </div>
 </div>
 
