@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Hello World!"
+categories:
+- Blog
 ---
 Hello from Jekyll/GitHub Pages. In an effort to clean up my online writing I plan on migrating my domain and blog to Jekyll hosted on GitHub Pages. 
 

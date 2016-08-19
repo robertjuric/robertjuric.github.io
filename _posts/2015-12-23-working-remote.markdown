@@ -6,6 +6,8 @@ layout: post
 slug: working-remote
 title: Working Remote
 wordpress_id: 1049
+categories:
+- Blog
 tags:
 - life
 - remote

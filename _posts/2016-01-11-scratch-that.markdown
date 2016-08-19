@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Scratch That
+categories:
+- Blog
 ---
 
 I know I said I would be migrating all of my old Wordpress posts over to Jekyll, but I've decided to alter course. I have struggled with the presentation of my website/domain for a while now. Honestly I haven't been crazy that when you visit my domain name, my high-level online representation, that you're met with fairly boring, rephrased, technical documentation.  

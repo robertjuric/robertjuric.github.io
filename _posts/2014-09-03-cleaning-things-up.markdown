@@ -6,6 +6,8 @@ layout: post
 slug: cleaning-things-up
 title: Cleaning Things Up
 wordpress_id: 1012
+categories:
+- Blog
 tags:
 - custom post type
 - rss
