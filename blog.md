@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Blog
 permalink: /blog/
 ---
 
-<p class="intro">These posts are part of my personal blog, a place for my random thoughts and feelings when I feel like expressing them.</p>
+<p class="intro">miscellaneous ramblings about life:</p>
 <ul class="post-list">
 {% for post in site.posts %}
   {% if post.categories[0] == "Blog" %}
