@@ -14,7 +14,7 @@ permalink: /tech-notes/
    
   <ul class="post-list">
     {% for post in site.posts %}
-    {% if post.category == "Blog" %}
+    {% if post.categories == "Blog" %}
     // skip it
     {% else if %}
 <li>
