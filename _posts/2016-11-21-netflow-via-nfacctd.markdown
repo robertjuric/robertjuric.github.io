@@ -2,7 +2,7 @@
 layout: post
 title: Netflow via nfacctd
 categories: 
-- TechNotes
+- Networking
 --- 
 
 I've been experimenting with with some network management systems at home and one piece that I keep getting hung up on is Netflow. I think there is great value in being able to see what type of traffic is leaving (or entering) your network, even at a macro scale. To test these systems I've been using my home Juniper SRX100 and various Open Source solutions to try to grab this netflow data and do something useful. I've discovered that grabbing the data isn't particulary difficult, but making it useful has been extremely difficult.  
