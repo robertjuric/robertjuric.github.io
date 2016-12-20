@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting nfacctd to InfluxDB via Curl
+comments: true
 categories: 
 - Networking
 --- 

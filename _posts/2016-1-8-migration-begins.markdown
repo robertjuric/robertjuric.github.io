@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Migration Begins
+comments: true
 categories:
 - Blog
 ---

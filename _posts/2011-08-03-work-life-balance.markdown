@@ -1,6 +1,7 @@
 ---
 date: 2011-08-03 02:14:37+00:00
 layout: post
+comments: true
 title: Work-Life Balance
 categories:
 - Blog

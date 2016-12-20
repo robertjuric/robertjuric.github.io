@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Netflow via nfacctd
+comments: true
 categories: 
 - Networking
 --- 

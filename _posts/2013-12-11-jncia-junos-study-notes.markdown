@@ -19,6 +19,8 @@ I use '/' to identify multiple options
 If there is an optional command completion I list it in '( )'
 
 You can download the PDF for free here:
-[JNCIA-Junos Notes](http://robertjuric.com/wp-content/uploads/2013/12/JNCIA-Junos-Notes.pdf)
+[JNCIA-Junos Notes](https://www.dropbox.com/s/uwz940hvstp2agt/JNCIA-Junos%20Notes.pdf?dl=0)
 
 If you see any mistakes, or something needs clarification please comment or reach out to me. I always appreciate feedback.
+
+EDIT 12-20-16: I've updated the download to a Dropbox link since it was still pointing to my old Wordpress content. Please use the contacts below if you have any issues. I'd like to keep it up to date and relevant.

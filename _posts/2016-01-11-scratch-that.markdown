@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scratch That
+comments: true
 categories:
 - Blog
 ---

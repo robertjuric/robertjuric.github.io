@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Website Update
+comments: true
 categories:
 - Blog
 ---

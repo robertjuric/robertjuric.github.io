@@ -2,6 +2,7 @@
 date: 2013-06-05 13:30:46+00:00
 layout: post
 title: Wants to Send You Notifications
+comments: true
 categories:
 - Blog
 ---

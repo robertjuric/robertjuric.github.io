@@ -1,6 +1,6 @@
 ---
 author: admin
-comments: false
+comments: true
 date: 2015-09-20 14:48:23+00:00
 layout: post
 slug: debian-8-xen-dom0
