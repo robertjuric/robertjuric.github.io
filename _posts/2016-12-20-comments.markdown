@@ -9,3 +9,5 @@ categories:
 Comments should be live!
 
 Thanks to some spiffy instructions I found [here](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/).
+
+I will be slowly going back and cleaning up my YAML and enabling comments on historical posts at the same time. As always feel free to reach out to me using any of the contacts at the bottom of the page.
