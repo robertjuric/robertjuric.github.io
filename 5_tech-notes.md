@@ -6,7 +6,10 @@ permalink: /tech-notes/
 
 <div class="container" >
 <div id="archives">
-<p>all technical articles<br>
+<p>
+I'm excited to finally be moving all of my technical articles to my new blog, [Directly Connected](https://directlyconnected.wordpress.com/). Starting in 2017 all new content will be posted to my Directly Connected blog. As I migrate older articles over they will be removed from this list. This should help clean up RSS feed issues and provide clean deliniation between personal and work articles.<br>
+<br>
+all technical articles<br>
 (or browse by <a title="The complete archive of {{ site.name }} by category" href="{{ site.url}}{{site.baseurl}}/categoryview">category</a>)</p>
 </div>
 </div>
