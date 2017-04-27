@@ -25,8 +25,8 @@ EDUCATION AND CERTIFICATIONS
 ---------------------------
 
 * Bachelor of Business Administration (BBA), Faulkner University, Feb. 2011  
-* Juniper Networks Certified Internet Assosciate – Junos (JPR106673)  
-* Cisco Certified Network Assosciate - Route Switch (CSCO11674179)  
+* Juniper Networks Certified Internet Associate – Junos (JPR106673)  
+* Cisco Certified Network Associate - Route Switch (CSCO11674179)  
 
 
 PROFESSIONAL EXPERIENCE
@@ -71,5 +71,4 @@ RELATED
 -------
 
 10 Years Military Service, US Army  
-Adjunct Professor at ITT Technical Institute  
 Technical Editor for "Packet Analysis with Wireshark", ISBN 978-1-78588-781-9  
