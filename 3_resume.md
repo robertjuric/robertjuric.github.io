@@ -27,6 +27,7 @@ EDUCATION AND CERTIFICATIONS
 * Bachelor of Business Administration (BBA), Faulkner University, Feb. 2011  
 * Juniper Networks Certified Internet Associate – Junos (JPR106673)  
 * Cisco Certified Network Associate - Route Switch (CSCO11674179)  
+* Cisco Certified Network Associate - Wireless (CSCO11674179)
 
 
 PROFESSIONAL EXPERIENCE
