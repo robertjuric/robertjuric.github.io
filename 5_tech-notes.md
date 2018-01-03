@@ -4,13 +4,10 @@ title: Tech-Notes
 permalink: /tech-notes/
 ---
 
-<div class="container" >
-<div id="archives">
+
 <p>
 I'm excited to finally be moving all of my technical articles to my new blog, <a href="https://directlyconnected.wordpress.com/">Directly Connected</a>. As of 2018 all of my technical notes and writings have been moved to that blog. This should help clean up RSS feed issues and provide clean delineation between personal and work articles.<br>
-</div> 
 
-</div>
 
 <!---
 <br>
